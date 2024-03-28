@@ -1,0 +1,28 @@
+{
+  "name": "arsalankhan_number_guessing_game",
+  "version": "2.0.1",
+  "description": "Here is my first game \"number-guessing-game\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ar813/number-guessing-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ar813/number-guessing-game/issues"
+  },
+  "homepage": "https://github.com/ar813/number-guessing-game#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
